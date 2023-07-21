@@ -9,6 +9,7 @@ Watch If you aren't comfortable with git cli to do the following:
   - git tag.
 
 If any of the commands above look foreign to you or if you don't know how to use the cli to do them, then you should probably upskill in git. As for gitflow, i don't recommend using it but it's worth knowing that it exists as it may be brought up in certain environments. GitHub Flow is another alternative to git flow and is the one I try and follow personally.
+
 [Using GitFlow (https://app.pluralsight.com/library/courses/using-gitflow)](https://app.pluralsight.com/library/courses/using-gitflow)  
 [Advanced Git Techniques (https://app.pluralsight.com/library/courses/advanced-git-techniques) - ~2hr](https://app.pluralsight.com/library/courses/advanced-git-techniques)  
 [Master Git (https://app.pluralsight.com/library/courses/master-git) - ~3hr](https://app.pluralsight.com/library/courses/master-git)
