@@ -63,3 +63,15 @@ Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course](h
 [A Cloud Guru - 
 Prometheus Deep Dive](https://learn.acloud.guru/course/0eaae074-9914-47d1-9239-3d6f267d302b/dashboard)
 
+https://www.udemy.com/course/postgresql-high-performance-tuning-guide/
+udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment/
+udemy.com/course/aws-ecs-deep-insight/
+https://www.udemy.com/course/kafka-cluster-setup/
+https://www.udemy.com/course/certified-kubernetes-application-developer/
+https://www.udemy.com/course/learn-kubernetes/
+udemy.com/course/go-the-complete-developers-guide/
+udemy.com/course/hands-on-guide-to-argo-workflows-on-kubernetes/
+https://www.udemy.com/course/learn-puppet/
+
+
+Logging in Kubernetes with EFK Stack from Nana on Udemy (no longer offered via udemy but they probably have it on their own site)
