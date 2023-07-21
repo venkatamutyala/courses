@@ -37,6 +37,7 @@ More K8s courses that I have watched:
 ---
 
 If you haven't used terraform, check these out:
+
 [Getting Started with Terraform (https://www.pluralsight.com/courses/getting-started-terraform) - ~4hr](https://www.pluralsight.com/courses/getting-started-terraform)  
 [Implementing Terraform on AWS (https://www.pluralsight.com/courses/implementing-terraform-aws) - ~3hr](https://www.pluralsight.com/courses/implementing-terraform-aws)  
 [Terraform Deep Dive (https://www.pluralsight.com/courses/terraform-deep-dive) - ~4hr](https://www.pluralsight.com/courses/terraform-deep-dive)
