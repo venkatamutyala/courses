@@ -29,10 +29,10 @@ Docker + Kubernetes. Do it in this order:
 
 More K8s courses that I have watched:
 
-[Certified Kubernetes Administrator with Practice Tests (https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests) - ~18hr](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
-[Certified Kubernetes Application Developer (https://www.udemy.com/course/certified-kubernetes-application-developer) - ~10hr](https://www.udemy.com/course/certified-kubernetes-application-developer)
-[Learn DevOps: Helm / Helmfile & Kubernetes Deployment (https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment) - ~3hr](https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment)
-[Amazon EKS Starter: Kubernetes on AWS (https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws) - ~6hr](https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws)
+[Certified Kubernetes Administrator with Practice Tests  - ~18hr](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
+[Certified Kubernetes Application Developer  - ~10hr](https://www.udemy.com/course/certified-kubernetes-application-developer)
+[Learn DevOps: Helm / Helmfile & Kubernetes Deployment - ~3hr](https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment)
+[Amazon EKS Starter: Kubernetes on AWS  - ~6hr](https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws)
 [Kubernetes the hardway](https://learn.acloud.guru/course/8832e727-9101-4785-8ea6-e8057ad62f69/overview)
 
 ---
