@@ -50,8 +50,10 @@ Other courses:
 
 [Learn Puppet - udemy ~3hr](https://www.udemy.com/course/learn-puppet/)
 [A Cloud Guru - Intro to Ansible](https://learn.acloud.guru/course/intro-to-ansible/dashboard)
-[A Cloud Guru - ](https://learn.acloud.guru/course/2fee0924-2fb2-4f10-845e-d35b2346ab52/overview)
+[A Cloud Guru - 
+Red Hat Certified Specialist in Ansible Automation (EX407) Preparation Course](https://learn.acloud.guru/course/2fee0924-2fb2-4f10-845e-d35b2346ab52/overview)
 [A Cloud Guru - Kubernetes deep dive](https://learn.acloud.guru/course/kubernetes-deep-dive/dashboard)
 [A Cloud Guru - Helm deep dive v3](https://learn.acloud.guru/course/helm-deep-dive-v3/dashboard)
-[A Cloud Guru - ](https://learn.acloud.guru/course/97037e05-88ed-41a1-92ee-f5a8080318c2/dashboard)
-[A Cloud Guru - ](https://learn.acloud.guru/course/0eaae074-9914-47d1-9239-3d6f267d302b/dashboard)
+[A Cloud Guru - Monitoring Kubernetes With Prometheus](https://learn.acloud.guru/course/97037e05-88ed-41a1-92ee-f5a8080318c2/dashboard)
+[A Cloud Guru - 
+Prometheus Deep Dive](https://learn.acloud.guru/course/0eaae074-9914-47d1-9239-3d6f267d302b/dashboard)
