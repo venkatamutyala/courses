@@ -1,7 +1,7 @@
 # A list of courses I have taken and/or watched more than 50% of
 
 
-Watch If you aren't comfortable with git cli to do the following:
+Git commands I us regularly:
   - git rebase
   - git push
   - git branch
