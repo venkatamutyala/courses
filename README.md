@@ -1,7 +1,7 @@
 # A list of courses I have taken and/or watched more than 50% of
 
 
-Git commands I us regularly:
+Git commands I use regularly:
   - git rebase
   - git push
   - git branch
