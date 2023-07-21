@@ -23,8 +23,8 @@ Docker + Kubernetes. Do it in this order:
 More K8s courses that I have watched:
 
 [Certified Kubernetes Administrator with Practice Tests (https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests) - ~18hr](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests)
-[Certified Kubernetes Application Developer (https://www.udemy.com/course/certified-kubernetes-application-developer) - ~10hr](https://www.udemy.com/course/certified-kubernetes-application-developer)  
-[Learn DevOps: Helm / Helmfile & Kubernetes Deployment (https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment) - ~3hr](https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment)  
+[Certified Kubernetes Application Developer (https://www.udemy.com/course/certified-kubernetes-application-developer) - ~10hr](https://www.udemy.com/course/certified-kubernetes-application-developer)
+[Learn DevOps: Helm / Helmfile & Kubernetes Deployment (https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment) - ~3hr](https://www.udemy.com/course/learn-devops-helm-helmfile-kubernetes-deployment)
 [Amazon EKS Starter: Kubernetes on AWS (https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws) - ~6hr](https://www.udemy.com/course/amazon-eks-starter-kubernetes-on-aws)
 
 ---
