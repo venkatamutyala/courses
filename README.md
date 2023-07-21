@@ -1,4 +1,4 @@
-# courses
+# courses taken by venkata at some point in his career
 
 
 Watch If you aren't comfortable with git cli to do the following:
