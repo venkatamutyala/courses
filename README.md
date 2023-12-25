@@ -85,4 +85,10 @@ udemy.com/course/hands-on-guide-to-argo-workflows-on-kubernetes/
 
 https://www.udemy.com/course/learn-puppet/
 
+https://www.nslookup.io/dns-course/
+
+https://gale.udemy.com/course/linux-performance-monitoring-analyzing
+
+https://www.nslookup.io/dns-course/
+
 Logging in Kubernetes with EFK Stack from Nana on Udemy (no longer offered via udemy but they probably have it on their own site)
