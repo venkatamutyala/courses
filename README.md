@@ -92,3 +92,10 @@ https://gale.udemy.com/course/linux-performance-monitoring-analyzing
 https://www.nslookup.io/dns-course/
 
 Logging in Kubernetes with EFK Stack from Nana on Udemy (no longer offered via udemy but they probably have it on their own site)
+
+
+## OTEL:
+
+https://udemy.com/course/practical-introduction-to-observability/?couponCode=LEARNNOWPLANS
+
+https://www.youtube.com/watch?v=_uKenOH1M8E
